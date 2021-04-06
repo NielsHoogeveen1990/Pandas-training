@@ -2,7 +2,6 @@
 .ipynb_checkpoints
 *.ipynb_checkpoints
 
-
 # Environments
 .env
 .venv
@@ -11,4 +10,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+# Added
+.idea/
+.DS_store
 
